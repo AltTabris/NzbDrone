@@ -462,6 +462,7 @@
     <Compile Include="MediaFiles\EpisodeFile.cs" />
     <Compile Include="MediaFiles\EpisodeFileMoveResult.cs" />
     <Compile Include="MediaFiles\EpisodeFileMovingService.cs" />
+    <Compile Include="MediaFiles\EpisodeImport\ImportResult.cs" />
     <Compile Include="MediaFiles\EpisodeImport\IImportDecisionEngineSpecification.cs" />
     <Compile Include="MediaFiles\EpisodeImport\ImportApprovedEpisodes.cs" />
     <Compile Include="MediaFiles\EpisodeImport\ImportDecision.cs" />
